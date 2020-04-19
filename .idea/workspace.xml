@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f4e0912-0d92-4b6d-895d-d1e5183046a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teniente.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teniente.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -25,6 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587259821287</updated>
-      <workItem from="1587259825065" duration="513000" />
+      <workItem from="1587259825065" duration="782000" />
     </task>
     <servers />
   </component>
@@ -56,6 +58,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="397" y="174" key="SettingsEditor" timestamp="1587260514179">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="397" y="174" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1587260514179" />
     <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1587259836488">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
